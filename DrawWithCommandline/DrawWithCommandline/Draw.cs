@@ -121,6 +121,7 @@ namespace DrawWithCommandline
             cboSize.Enabled = true;
         }
 
+	// triangle icon to draw triangle
         private void btnTriangle_Click(object sender, EventArgs e)
         {
             active = "triangle";
